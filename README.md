@@ -1,7 +1,7 @@
-# pif
+# pif DAO
 Funding the Future
 
-Th objective of this project is to earn income, capital gains and any form of money.  Once the money is acquired, some will be distributed to charitable organizations that would warrant a tax writeoff.  
+Th objective of this project is to earn income, capital gains and any form of money. Once the money is acquired, some will be distributed to charitable organizations that would warrant a tax writeoff. The rest will be invested back into the business.   
 
 ## Mission:
 
